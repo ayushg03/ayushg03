@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋</h1>
-<h3 align="center">I am Ayush Gupta , freshman at RGIPT persuing Btech in Computer Science & Engineering and being passionate learner always willing to learn and work across technologies and domain.</h3>
+<h3 align="center">I am Ayush Gupta , freshman at RGIPT persuing Btech in Computer Science & Engineering and always willing to learn and work across technologies and domain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushg03&label=Profile%20views&color=0e75b6&style=flat" alt="ayushg03" /> </p>
 
