@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello World! </h1>
 <h3 align="center">I am Ayush Gupta , freshman at RGIPT persuing Btech in Computer Science & Engineering and always willing to learn and work across technologies and domain.</h3>
 
 
