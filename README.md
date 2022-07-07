@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World! </h1>
-<h3 align="center">I am Ayush Gupta , pre-final year student at RGIPT persuing Btech in Computer Science & Engineering and always willing to learn and work across technologies and domain.</h3>
+<h3 align="center">I am Ayush Gupta, pre-final year student at RGIPT persuing Btech in Computer Science & Engineering and always willing to learn and work across technologies and domain.</h3>
 
 
 
