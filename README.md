@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">I am Ayush Gupta , freshman at RGIPT persuing Btech in Computer Science & Engineering and always willing to learn and work across technologies and domain.</h3>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8930b329502133.55f6b199518e9.gif" align="right" width="350" height="255">
+
 
 
 - 📫 How to reach me **ayushgupta3172@gmail.com**
