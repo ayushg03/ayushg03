@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World! </h1>
-<h3 align="center">I am Ayush Gupta, pre-final year student at RGIPT persuing Btech in Computer Science & Engineering and always willing to learn and work across technologies and domain.</h3>
+<h3 align="center">I am Ayush Gupta, final year student at RGIPT persuing Btech in Computer Science & Engineering and always willing to learn and work across technologies and domain.</h3>
 
 
 
@@ -26,6 +26,7 @@
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> <a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+
 <a href="https://github.com" target="_blank"> <img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" alt="github" width="40" height="40"/>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p></a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
