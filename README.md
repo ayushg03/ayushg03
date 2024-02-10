@@ -1,37 +1,44 @@
+<h1 align=center>
+    <strong> Hi 👋, I'm Ayush Gupta </strong> 
+</h1>
 
-<h1 align="center">Hello World! </h1>
-<h3 align="center">I am Ayush Gupta, final year student at RGIPT persuing Btech in Computer Science & Engineering and always willing to learn and work across technologies and domain.</h3>
+<br>
 
+## 🧑‍💻 About Me:
+- 🏫 Final year at RGIPT(Institute of National Importance).
+- 🌱 Currently delving into full stack web development.
+- 🎨 Enthusiastic about community involvement.
 
+<br>
 
-- 📫 How to reach me **ayushgupta3172@gmail.com**
+## 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/ayushg03/"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="Ayush Gupta | LinkedIn" width=40px;/>
+</a>
+<a href="https://twitter.com/4yushGupta"><img align="left" src="https://skillicons.dev/icons?i=twitter" alt="Ayush Gupta | Twitter" width="40px"/>
+</a>
 
-- ⚡ Fun fact **I think I am Funny XD**
+<br>
+<br>
+<br>
 
+<div id="badges">
 
-<p align="center"> 
-  <br>Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ayushg03/count.svg"/>
- </p>
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/ayush-gupta-bb69b3207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushgupta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ayush.gupta_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush.gupta_03ig" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayush_gupta03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushgupta" height="30" width="40" /></a>
+## 🛠️ Languages and Tools :
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,prisma,materialui,tailwind,firebase,cpp,qt,matlab,nginx,docker,aws,git,github"/>
+  </a>
 </p>
+</div>
 
-<br/><br/>
-    
+<br>
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-
-<a href="https://github.com" target="_blank"> <img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" alt="github" width="40" height="40"/>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p></a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushg03&show_icons=true&locale=en" alt="ayushg03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushg03&" alt="ayushg03" /></p>
-</h3>
+## 📈 GitHub Stats
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushg03&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ayushg03&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushg03&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
+    </div>
+</div>
+<br>
