@@ -5,8 +5,8 @@
 <br>
 
 ## 🧑‍💻 About Me:
-- 🏫 Final year at <a href="https://rgipt.ac.in/">RGIPT</a> (Institute of National Importance).
-- 🌱 Currently delving into full stack web development.
+- 👨‍💻 Software Developer from India
+- 🏫 B.Tech CSE'24 from <a href="https://rgipt.ac.in/">RGIPT</a> (Institute of National Importance).
 - 🎨 Enthusiastic about community involvement.
 
 <br>
